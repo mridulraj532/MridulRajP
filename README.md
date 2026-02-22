@@ -52,13 +52,6 @@ Algorithmic trading insights dashboard with WebSocket-powered metrics.
 
 ---
 
-## 📈 GitHub Stats  
-*(Add this after enabling “Public contribution” settings)*  
-
-![Mridul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithub&show_icons=true&theme=tokyonight)
-
----
-
 ## 🤝 Connect With Me  
 [LinkedIn](https://www.linkedin.com/in/mridul-raj-p/)  
 [Portfolio Website](https://mridulraj532.github.io/mridul-portfolio)  
