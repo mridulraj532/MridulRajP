@@ -60,7 +60,7 @@ Algorithmic trading insights dashboard with WebSocket-powered metrics.
 ---
 
 ## 🤝 Connect With Me  
-[LinkedIn](https://linkedin.com/in/yourlinkedin)  
+[LinkedIn](https://www.linkedin.com/in/mridul-raj-p/)  
 [Portfolio Website](https://your-portfolio-link.com)  
 mridulrajp532@gmail.com
 
